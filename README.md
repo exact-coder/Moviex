@@ -1,5 +1,8 @@
 # Moviex 🎬
 
+[![Home Page Screenshot](public/HomePage.png)](public/HomePage.png)
+[![Search Page Screenshot](public/SearchPage.png)](public/SearchPage.png)
+
 Welcome to my **Moviex**, web application. Here i added all the features.
 
 ---
