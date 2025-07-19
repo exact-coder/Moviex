@@ -26,11 +26,10 @@ Welcome to my **Moviex**, web application. Here i added all the features.
 
 ## 🚀 Technologies Used
 
-* **Vite**: A fast build tool that provides an extremely quick development experience.
 * **ReactJS**: A JavaScript library.
 * **JavaScript**: Programming language for the application logic.
-* **Shadcn UI**: A collection of reusable components.
 * **Tailwind CSS**: A CSS framework.
+* **Shadcn UI**: A collection of reusable components.
 * **TMDB API**: Used for fetching movie data.
 * **Fake User Info**: Used for handling authentication.
 
