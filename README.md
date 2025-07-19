@@ -1,9 +1,9 @@
 # Moviex 🎬
 
-### `Home Page`
+### `Home Page: `
 ---
 [![Home Page Screenshot](public/HomePage.png)](public/HomePage.png)
-### `Search Page`
+### `Search Page: `
 ---
 [![Search Page Screenshot](public/SearchPage.png)](public/SearchPage.png)
 
@@ -88,10 +88,10 @@ Password: `password123`
 
 Once logged in, you can use the Search functionality to find movies.
 
-On a search result movies or movie's details page, you'll see options to Add to Watchlist or Remove from Watchlist if already added.
+On a search result movie or movie's details page, you'll see options to Add to Watchlist or Remove from Watchlist if already added.
 
 Visit the `Watchlist` page to view all your saved movies.
 
 ### 🎥 Project Walkthrough Video
-For a visual demonstration of the Moviex application and its features, please refer to the following Google Drive link: [https://drive.google.com/drive/folders/1lBYtdwB-OtESkdCyMtvwqftpM0EpSMYu?usp=sharing](https://drive.google.com/drive/folders/1lBYtdwB-OtESkdCyMtvwqftpM0EpSMYu?usp=sharing)
+For a visual demonstration of the Moviex application and its features, please refer to the following Google Drive link: [https://drive.google.com/file/d/1F0yUy4sSZtAnEZww0t9NNIncpXuVHe_P/view?usp=drive_link](https://drive.google.com/file/d/1F0yUy4sSZtAnEZww0t9NNIncpXuVHe_P/view?usp=drive_link)
 
